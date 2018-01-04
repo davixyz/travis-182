@@ -1,0 +1,23 @@
+{
+  "name": "travis-182",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davixyz/travis-182.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davixyz/travis-182/issues"
+  },
+  "homepage": "https://github.com/davixyz/travis-182#readme",
+  "devDependencies": {
+    "mocha": "^4.1.0"
+  }
+}
